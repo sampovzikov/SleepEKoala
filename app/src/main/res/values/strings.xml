@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Sleepy Koala</string>
+    <string name="set_alarm">Set Alarm</string>
 </resources>
